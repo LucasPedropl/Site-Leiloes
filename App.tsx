@@ -3,7 +3,7 @@ import { AuctionItem, ViewState, Bid } from './types';
 import { AuctionCard } from './components/AuctionCard';
 import { DetailView } from './components/DetailView';
 import { Button } from './components/Button';
-import { Search, Bell, Menu, ArrowRight, Home, Car, Scale, Palette, LayoutGrid, X } from 'lucide-react';
+import { Search, Bell, Menu, Home, Car, Scale, Palette, LayoutGrid } from 'lucide-react';
 
 // Mock Data - Realistic Brazilian Auctions
 const INITIAL_ITEMS: AuctionItem[] = [
